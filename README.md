@@ -12,8 +12,6 @@ This project is a comprehensive test automation framework for testing OpenCart A
 
 
 
----
-
 ## 📦 Prerequisites
 - Java 11 or higher
 - Maven 3.8+ installed and configured
