@@ -7,6 +7,8 @@ This project is a comprehensive test automation framework for testing OpenCart A
 - Cart Management
 - Customer API Validations
 
+/openCartAutomation ├── /src │ ├── /main │ │ └── /java │ │ └── /api │ │ └── /testcases │ └── /test │ ├── /java │ │ └── /api │ │ └── /tests │ └── /resources │ └── testng.xml ├── /target ├── /pom.xml └── /README.md
+
 ---
 
 ## 📚 Project Structure
